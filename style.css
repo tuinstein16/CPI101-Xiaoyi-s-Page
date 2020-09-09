@@ -1,0 +1,47 @@
+body {background-color: #DAF7A6}
+
+h1 {color: #FFA925}
+h1:hover {color: #F5B7B1}
+
+#para1 {
+	color:;
+	font-size: 18px;
+	font-family: Impact;
+	}
+
+	.box{
+		color: #DD87F0;
+		top: 0px;
+		width: 350px;
+		padding: 0px;
+		position: relative;
+		}
+
+	.meme_top{
+		position: absolute;
+		padding: 10px;
+		top: 0px;
+		bottom: 70px;
+		font-size: 40px;
+		color:white;
+		font-family: Impact;
+		text-shadow: 2px 2px #000000;
+		}
+
+	.meme_bottom{
+		position: absolute;
+		bottom: 20px;
+		right: 10px;
+		font-size: 35px;
+		color:white;
+		font-family: Impact;
+		text-shadow: 2px 2px #000000;
+		}
+
+img {size: 30*40}
+#h2_1 {color: #5DADE2}
+#h2_2 {color:#FF94C9}
+
+.link:hover {color: #EC7063; }
+
+.resumeFonts {font-size: 18}
